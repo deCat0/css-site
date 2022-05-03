@@ -1,0 +1,44 @@
+div{
+    margin: 0em;
+    padding-top: 100px;
+    position: relative;
+    background-color: rgb(234, 250, 255);
+
+}
+h1{
+    margin: 0em;
+    font-family: satisfy;
+    font-size: 420%;
+}
+p{
+    margin: 0em;
+    font-family: overpass;
+}
+body{
+    margin: 0em;
+    text-align: center;
+
+}
+.cloud-top{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.cloud-bottom{
+  
+    position: absolute;
+    left: 300px;
+    bottom:300px;
+}
+.icons{
+    width: 250px;
+}
+.pro{
+    text-decoration: underline;
+}
+
+
+.head{
+    font-family: Bebas Neue ;
+}
